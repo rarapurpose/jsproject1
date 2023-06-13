@@ -21,12 +21,12 @@ const quotes = [
     author: "-Ryunosuke Akutagawa-",
   },
   {
-    quote: "The world is full of good and evil, but words are capable of changing the world.",
-    author: "-Natsume Soseki-",
+    quote: "Believe you can, and you're halfway there.",
+    author: "-Theodore Roosevelt-",
   },
   {
-    quote: "The courage to continue chasing your dreams becomes the power to change the future.",
-    author: "-Forrest Gump-",
+    quote: "What happens when people open their hearts? They get better.",
+    author: "-Haruki Murakami-",
   },
   {
     quote: "The only way to do great work is to love what you do.",
@@ -41,8 +41,8 @@ const quotes = [
     author: "-Akio Morita- ",
   },
   {
-    quote: "You set your own limits, and you can surpass them by constantly challenging yourself.",
-    author: "-Hiroshi Y-",
+    quote: "Dream big and dare to fail.",
+    author: "-Norman Vaughan-",
   },
 ];
 
