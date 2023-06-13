@@ -7,11 +7,11 @@
 1. Production period      
 + 2023/06/02 ~ 2023/06/12
 
-2.project goal      
+2. project goal      
 + Basic JavaScript learning through To Do app clone coding
 + Utilize external API   
 
-3.function    
+3. function    
   + 基本的な実装   
   + ランダム背景画像   
   + リアルタイムクロック   
@@ -21,6 +21,4 @@
   </br>   　　　
 
 
-CSSのスキルが足りなくてまだ未完成です.　　
-    
-CSSの勉強＋作業ing   
+未完成_CSSの勉強＋作業ing   
