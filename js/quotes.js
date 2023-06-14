@@ -33,8 +33,8 @@ const quotes = [
     author: "-Steve Jobs-",
   },
   {
-    quote: "Life is like a box of chocolates; you never know what you're gonna get.",
-    author: "Forrest Gump",
+    quote: "Believe you can and you're halfway there..",
+    author: "Theodore Roosevelt",
   },
   {
     quote: "The harder the times, the more you need to face forward.",
