@@ -23,10 +23,10 @@ https://rarapurpose.github.io/jsproject1/
 
 5. How to Use   
 
-①名前の入力   
+① 名前の入力   
   + log inボタンの左横にある枠内に名前を入力する。   
 
-②To Do Listの登録及び削除   
+② To Do Listの登録及び削除   
   + Write a To Do Press Enterと書かれた枠内にToDoを入力し、Enterを押す。   
 
 6. Background   
@@ -39,10 +39,11 @@ https://rarapurpose.github.io/jsproject1/
 
 7. Point   
 
-①OpenWeatherMap APIの導入
-OpenWeatherMap APIを導入して天気情報を表示できるように工夫しました。
-②時間表示のこだわり
-ブラウザ画面での時間表示を一目でわかりやすくするために時刻表を24時制にし、時間が1桁台の場合はレイアウトが崩れないよう数字の前に「0」を付け足せるような工夫をしました。
+① OpenWeatherMap APIの導入   
+   OpenWeatherMap APIを導入して天気情報を表示できるように工夫しました。   
+
+② 時間表示のこだわり   
+   ブラウザ画面での時間表示を一目でわかりやすくするために時刻表を24時制にし、時間が1桁台の場合はレイアウトが崩れないよう数字の前に「0」を付け足せるような工夫をしました。   
 （例：18：4：7 →18：04：07）
 
 <h3>✌️名前・ToDo List入力</h3>   
