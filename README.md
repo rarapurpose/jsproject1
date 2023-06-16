@@ -22,18 +22,21 @@
 https://rarapurpose.github.io/jsproject1/   
 
 5. How to Use   
+
 ①名前の入力   
 log inボタンの左横にある枠内に名前を入力する。   
 ②To Do Listの登録及び削除   
 
 6. Background   
+
 私はこれまで色んな国を旅してきた経験があり、自宅で作業をしながらも世界を旅しているような気分になれたら、   
 仕事のパフォーマンスも向上できるのではと感じていました。   
 そこで、オリジナルアプリの背景画像から旅しているような気分を味わえるように工夫しました。   
 さらに、毎日の仕事を効率よくこなすためにToDoListを活用していた経験から、メモ帳感覚で使えるシンプルなToDoList作成機能を実装しました。   
 また、仕事に没頭しているとついつい天気予報の確認を忘れてしまい傘を忘れて困ってしまった経験があるため、openweathermapのAPIを利用して現在地の天気情報を表示できるよう工夫しました。
 
-7. Point
+7. Point   
+
 ①OpenWeatherMap APIの導入
 OpenWeatherMap APIを導入して天気情報を表示できるように工夫しました。
 ②時間表示のこだわり
@@ -53,7 +56,7 @@ https://github.com/rarapurpose/jsproject1/assets/129743144/b9632bbf-5391-403a-ae
 
 https://github.com/rarapurpose/jsproject1/assets/129743144/ef75824c-51a3-4f66-83f0-ac6fb291b362
 
-<h3>✌️リアルタイム </h3>  
+<h3>✌️リアルタイム,　天気予報・位置 </h3>  
 
 
 
