@@ -1,7 +1,5 @@
 #  Javascript project1
 
- <h1>Chrome Momentum Clone</h1>   
-
 <h2>chrome app Momentum clone project  </h2>     
 
 1. Production period      
