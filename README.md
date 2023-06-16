@@ -24,8 +24,10 @@ https://rarapurpose.github.io/jsproject1/
 5. How to Use   
 
 ①名前の入力   
-log inボタンの左横にある枠内に名前を入力する。   
+  + log inボタンの左横にある枠内に名前を入力する。   
+
 ②To Do Listの登録及び削除   
+  + Write a To Do Press Enterと書かれた枠内にToDoを入力し、Enterを押す。   
 
 6. Background   
 
